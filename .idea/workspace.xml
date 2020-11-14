@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="324705fe-5317-4ad1-897e-2579d72b7083" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3EnPOHrEekv7r9Yd8A3mbExdB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sharding-biz/src/main/java/cn/cestc/biz/service/impl" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sharding-biz/src/main/java/cn/cestc/biz/service/impl" />
+      <recent name="$PROJECT_DIR$/sharding-biz/src/main/java/cn/cestc/biz/service" />
+      <recent name="$PROJECT_DIR$/sharding-biz/src/main/java/cn/cestc/biz/entity" />
+      <recent name="$PROJECT_DIR$/sharding-biz/src/main/java/cn/cestc/biz/mapper" />
+      <recent name="$PROJECT_DIR$/sharding-biz/src/main/resources/mapper" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="324705fe-5317-4ad1-897e-2579d72b7083" name="Default Changelist" comment="" />
+      <created>1604921040093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604921040093</updated>
+      <workItem from="1604921041823" duration="1152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2690" y="364" key="#Project_Structure" timestamp="1604921573916">
+      <screen x="1680" y="-52" width="2560" height="1440" />
+    </state>
+    <state x="2690" y="364" key="#Project_Structure/1680.-52.2560.1440/0.0.1680.1050@1680.-52.2560.1440" timestamp="1604921573916" />
+    <state x="2903" y="409" key="#com.intellij.ide.util.MemberChooser" timestamp="1604922026320">
+      <screen x="1680" y="-52" width="2560" height="1440" />
+    </state>
+    <state x="2903" y="409" key="#com.intellij.ide.util.MemberChooser/1680.-52.2560.1440/0.0.1680.1050@1680.-52.2560.1440" timestamp="1604922026320" />
+    <state x="2484" y="381" key="new project wizard" timestamp="1604921366044">
+      <screen x="1680" y="-52" width="2560" height="1440" />
+    </state>
+    <state x="2484" y="397" key="new project wizard/1680.-29.2560.1417/0.23.1680.1027@1680.-29.2560.1417" timestamp="1604921147169" />
+    <state x="2484" y="381" key="new project wizard/1680.-52.2560.1440/0.0.1680.1050@1680.-52.2560.1440" timestamp="1604921366044" />
+  </component>
+</project>
