@@ -10,6 +10,10 @@
     <modules>
         <module>sharding-parent</module>
         <module>sharding-biz</module>
+        <module>sharding-inline-yml</module>
+        <module>sharding-inline-java</module>
+        <module>sharding-standard-yml</module>
+        <module>sharding-standard-java</module>
     </modules>
     <packaging>pom</packaging>
 
