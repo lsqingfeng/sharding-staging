@@ -1,4 +1,5 @@
 CREATE database ds0;
+use ds0;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
@@ -97,6 +98,7 @@ SET FOREIGN_KEY_CHECKS = 1;
 
 -- ------------第二个库------------------
 CREATE database ds1;
+use ds1;
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
