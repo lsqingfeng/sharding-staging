@@ -45,7 +45,9 @@ public class ShardingDataSourceConfiguration {
         // 获取user表的分片规则配置
         TableRuleConfiguration standardRuleConfig = getTableRuleConfiguration();
         shardingRuleConfig.getTableRuleConfigs().add(standardRuleConfig);
-        return ShardingDataSourceFactory.createDataSource(createDataSourceMap(), shardingRuleConfig, new Properties());
+        Properties props = new Properties();
+        props.put("sql.show", "true");
+        return ShardingDataSourceFactory.createDataSource(createDataSourceMap(), shardingRuleConfig, props);
     }
 
     /**
