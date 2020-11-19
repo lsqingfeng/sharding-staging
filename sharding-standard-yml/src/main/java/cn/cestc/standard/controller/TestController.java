@@ -66,4 +66,10 @@ public class TestController {
         List<Order> list = orderService.list(new LambdaQueryWrapper<Order>().in(Order::getUserId, Arrays.asList(1,2,3,4,5)).orderByAsc(Order::getUserId));
         return list;
     }
+
+    @RequestMapping("/listOrder2")
+    public Object testListOrder2(){
+        List<Order> list = orderService.list(new LambdaQueryWrapper<Order>().between(Order::getUserId, 27,49).orderByAsc(Order::getUserId));
+        return list;
+    }
 }
